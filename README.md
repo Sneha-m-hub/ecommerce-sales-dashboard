@@ -26,3 +26,7 @@ This project analyzes e-commerce data to understand sales trends, customer behav
 - Dashboard creation in Power BI
 
 ## Dashboard Preview
+
+![Dashboard](IMG-20260415-WA0020.jpg)
+![Dashboard](IMG-20260415-WA0021.jpg)
+![Dashboard](IMG-20260415-WA0022.jpg)
