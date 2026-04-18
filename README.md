@@ -1,29 +1,29 @@
-# E-commerce Analytics Project
+# E-Commerce Analytics Dashboard
 
 ## Project Overview
-This project analyzes e-commerce data to understand sales trends, customer behavior, and overall business performance using SQL and Power BI.
+This project analyzes e-commerce data to understand sales performance, customer behavior, and product trends using SQL and Power BI.
 
 ## Objectives
-- Analyze sales trends across products and categories
+- Analyze sales trends and revenue performance
+- Identify high-performing products and categories
 - Understand customer purchasing behavior
-- Identify high-value and repeat customers
-- Support business decision-making
+- Support business growth through data insights
 
 ## Key Insights
-- Identified top-performing product categories contributing to revenue
-- Analyzed customer segments to identify high-value and repeat customers
-- Observed sales trends and patterns impacting overall performance
+- Identified top-selling products and revenue-driving categories
+- Analyzed customer purchase patterns and repeat behavior
+- Highlighted trends in sales performance over time
+- Provided insights to improve marketing and sales strategies
 
 ## Tools Used
-- SQL
-- Power BI
-- Excel
+- SQL (data analysis)
+- Power BI (dashboard creation)
 
 ## Process
-- Data cleaning and preprocessing
-- Data analysis using SQL queries
-- Customer segmentation
-- Dashboard creation in Power BI
+- Collected and prepared e-commerce dataset
+- Queried and analyzed data using SQL
+- Performed customer segmentation analysis
+- Created interactive Power BI dashboards for KPIs and insights
 
 ## Dashboard Preview
 
